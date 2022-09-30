@@ -1,7 +1,7 @@
 package me.dio.ifoodcodechallenges;
 import java.util.*;
 
-public class Fizzbuzz {
+public class Recursion {
     public static void main(String[] args) {
         int NUM;
 
